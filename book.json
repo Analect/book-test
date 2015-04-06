@@ -2,7 +2,6 @@
   "gitbook": ">=2.0.0",
   "title": "Test Book",
   "structure": {
-    "readme": "docs/README.md",
-    "summary": "docs/SUMMARY.md"
+    "readme": "docs/README.md"
   }
 }
